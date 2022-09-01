@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name          = 'omniauth-saml-cespi'
-  gem.version       = '1.3.1'
+  gem.version       = '1.3.2'
   gem.summary       = 'A generic SAML strategy for OmniAuth.'
   gem.description   = 'A generic SAML strategy for OmniAuth.'
   gem.license       = 'MIT'
